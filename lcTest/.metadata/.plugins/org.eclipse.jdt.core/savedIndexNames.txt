@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+G:\gitHub\Repository\Leetcode_java\lcTest\.metadata\.plugins\org.eclipse.jdt.core
